@@ -5,7 +5,7 @@ public class Main {
 
     // Method to print your success message
     public static void printSuccessMessage() {
-        System.out.println("Hi karan, fuck off.");
+        System.out.println("Hi karan,.");
     }
 
     // Method to print current time

@@ -5,7 +5,7 @@ public class Main {
 
     // Method to print your success message
     public static void printSuccessMessage() {
-        System.out.println("Hi Vipin, we done our job.");
+        System.out.println("Hi Vipin, we done our job we are done.");
     }
 
     // Method to print current time
